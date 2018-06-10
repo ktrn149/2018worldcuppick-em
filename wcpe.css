@@ -1,0 +1,38 @@
+html {
+	text-align: center;
+	background-color: #F8F8F8;
+}
+body {
+	background-color: #F8F8F8;
+
+}
+* {
+	font-family: 'Russo One', sans-serif
+}
+h1{
+	font-size: 30px;
+}
+
+.img-frontpage {
+
+	width: 28%;
+}
+.flag {
+	width: 35px;
+	height: 20px;
+}
+.outflag {
+	width: 35px;
+	height: 20px;
+	opacity: .5;	
+}
+.out {
+	opacity: .5;
+}
+.swissflag {
+	width: 20px;
+	height: 20px
+}
+.table {
+	text-align: center;
+}
